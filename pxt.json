@@ -1,0 +1,21 @@
+{
+    "name": "Bálint Gábor TESZT 1 Vonal Követő Nehéz Program",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
